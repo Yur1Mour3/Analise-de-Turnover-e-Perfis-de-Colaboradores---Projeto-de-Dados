@@ -13,6 +13,8 @@ Na primeira etapa, foram observadas inconsistências nos dados simulados, como:
 - Cálculo incorreto do tempo de casa.  
 - Status de desligado sem motivo associado.
 
+  ![Logo do GitHub](https://miro.medium.com/v2/resize:fit:828/format:webp/1*cjuFsijlbgtHHGUJ7V9FWQ.jpeg)
+
 Esses problemas foram ajustados na base revisada, garantindo maior confiabilidade na análise.
 
 📊 [Click aqui para Acessar o Painel deste projeto no Power BI](https://app.powerbi.com/view?r=eyJrIjoiODE4Y2Q3OWEtOTg0OC00NjI1LWI4NjMtMTY0NDNmMzYzNDFkIiwidCI6IjgxY2RjMzU5LTkwYWQtNGJjOC1iNTUyLTNlZjI1NzBhY2ZkMyJ9)
