@@ -137,4 +137,4 @@ DIVIDE(
     0  // Retorna 0 caso a divisão resulte em erro (como divisão por zero).
 )
 ```
-# [Mais Projetos aqui](https://yurimoura.carrd.co/)
+# [Outros Projetos aqui](https://yurimoura.carrd.co/)
