@@ -106,8 +106,6 @@ Com o uso de **Pareto**, identificamos que as principais causas de desligamento 
 - Departamentos como Operações e Vendas apresentam os maiores índices de desligamento. Recomenda-se investigar possíveis sobrecargas de trabalho e melhorar o suporte às equipes.  
 - Cada grupo demográfico possui desafios específicos, como gênero ou escolaridade. Estruturar políticas personalizadas pode melhorar o engajamento e retenção de talentos.
 
-Este estudo demonstra como análises em bases fictícias podem simular o impacto de decisões baseadas em dados, oferecendo aprendizados aplicáveis a cenários reais.
-
 📊 [Acesse o Painel deste projeto no Power BI](https://app.powerbi.com/view?r=eyJrIjoiODE4Y2Q3OWEtOTg0OC00NjI1LWI4NjMtMTY0NDNmMzYzNDFkIiwidCI6IjgxY2RjMzU5LTkwYWQtNGJjOC1iNTUyLTNlZjI1NzBhY2ZkMyJ9)
 ---
 ## 🧮 **Códigos Utilizados**
